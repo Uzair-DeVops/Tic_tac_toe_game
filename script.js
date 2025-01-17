@@ -2,7 +2,7 @@ let currentPlayer = "X";
 let arr = [null, null, null, null, null, null, null, null, null];
 
 function resetBoard() {
-    location.reload(); // Reloads the current page
+    location.reload(); 
 
 }
 function checkWinner() {
