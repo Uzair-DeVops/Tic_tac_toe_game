@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.row{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border : 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:80px;
+    cursor: pointer;
+}
